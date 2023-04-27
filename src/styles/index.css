@@ -1,3 +1,21 @@
 /* 
     General Styles
 */
+.header {
+    color: red;
+}
+.rojo{
+    color: red;
+}
+.scroll{
+    overflow-x: scroll;
+}
+.tarjeta{
+    width: 250px;
+}
+.logo {
+    height: 60px;
+}
+.pabajo {
+    min-height: 75vh;
+}
